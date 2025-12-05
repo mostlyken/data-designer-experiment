@@ -1,0 +1,47 @@
+company_id,company_name,company_segment,company_region
+COMP-037,EnterprisePrime,Enterprise,North America
+COMP-003,NubeCrecimiento,Mid-Market,LATAM
+COMP-040,AstraSphere,Enterprise,LATAM
+COMP-005,NexaCore Solutions,Mid-Market,Europe
+COMP-032,AstraGlobal Solutions,Enterprise,Europe
+COMP-008,GlobalCore Solutions,Enterprise,Europe
+COMP-006,AstraLink,Mid-Market,Europe
+COMP-002,SMBridge,SMB,North America
+COMP-013,NexaFlow,Mid-Market,North America
+COMP-022,AstraFlow Solutions,Mid-Market,Europe
+COMP-018,NextPrime Solutions,Enterprise,North America
+COMP-038,NexaLATAM,Mid-Market,LATAM
+COMP-007,BizFlow,SMB,North America
+COMP-026,SMBHive,SMB,APAC
+COMP-010,MidSphere,Mid-Market,Europe
+COMP-034,AetherWorks GmbH,SMB,Europe
+COMP-036,NexaFlow,Mid-Market,Europe
+COMP-004,NexaFlow,Mid-Market,Europe
+COMP-011,SMBFlow,SMB,Europe
+COMP-046,NextSMB,SMB,LATAM
+COMP-019,NexaHub APAC,SMB,APAC
+COMP-044,CatalystAstra,SMB,APAC
+COMP-015,LatamFlow,SMB,LATAM
+COMP-025,StrataFlow Technologies,Mid-Market,North America
+COMP-041,EnterpriseVista,Enterprise,Europe
+COMP-020,LuzNube,SMB,LATAM
+COMP-017,NexaEnterprise,Enterprise,Europe
+COMP-016,,Mid-Market,North America
+COMP-009,ElevateSphere,Mid-Market,North America
+COMP-043,StrataVista,Mid-Market,Europe
+COMP-023,SMBFlow,SMB,North America
+COMP-045,AstraLink,Mid-Market,Europe
+COMP-014,NexusWorks,SMB,North America
+COMP-021,ProsperaSMB,SMB,LATAM
+COMP-027,SMBPulse Hub,SMB,APAC
+COMP-050,SummitNexus,Enterprise,North America
+COMP-035,GlobalPrime Solutions,Enterprise,North America
+COMP-030,SMBHive,SMB,Europe
+COMP-033,MidNexus,Mid-Market,North America
+COMP-039,Proxima Hub,SMB,North America
+COMP-048,NexaPulse Asia,Mid-Market,APAC
+COMP-028,VertexEdge Solutions,Enterprise,North America
+COMP-001,NestSpark,SMB,Europe
+COMP-047,Strategix,Mid-Market,Europe
+COMP-029,ZenithEnterprise,Enterprise,Europe
+COMP-024,VertexAPAC,Enterprise,APAC

@@ -1,0 +1,101 @@
+event_id,company_id,user_id,subscription_id,invoice_id,event_type,event_channel,event_description
+EVT-0010197,COMP-037,USER-0248,SUB-00461,INV-000694,admin_action,web_app,Admin user from EnterprisePrime on the Growth plan (billed monthly) performed an admin action via the web app.
+EVT-0040227,COMP-003,USER-0169,SUB-04103,INV-004516,login,support,"Admin user at NubeCrecimiento (Scale plan, billed monthly) logged in via support."
+EVT-0007361,COMP-040,USER-0296,SUB-01543,INV-005508,signup,web_app,User with role 'viewer' at AstraSphere signed up for the Growth plan (billed annually) via the web app.
+EVT-0027114,COMP-005,USER-0342,SUB-02448,INV-000750,signup,api,"Viewer user at NexaCore Solutions (Enterprise plan, annual billing) performed a signup via API."
+EVT-0018708,COMP-032,USER-0166,SUB-02851,INV-007150,admin_action,mobile_app,"An individual_contributor at AstraGlobal Solutions (Starter plan, billed annually) performed an 'admin_action' via the mobile_app."
+EVT-0038811,COMP-008,USER-0293,SUB-04978,INV-008199,cancel_attempt,support,"Admin user at GlobalCore Solutions (Starter plan, annual billing) attempted to cancel their subscription via support."
+EVT-0025435,COMP-006,USER-0749,SUB-03034,INV-001841,login,support,"Admin user from AstraLink (Growth plan, billed monthly) logged in via the support channel."
+EVT-0001186,COMP-002,USER-0893,SUB-00529,INV-004379,billing_page_view,api,User with role individual_contributor at SMBridge on the Starter plan (billed monthly) viewed the billing page via API.
+EVT-0046825,COMP-002,USER-0537,SUB-00217,INV-003834,feature_use,api,"An individual contributor at LATAMFlow (Growth plan, billed annually) used a feature via API."
+EVT-0018720,COMP-013,USER-0260,SUB-04979,INV-005088,feature_use,mobile_app,"An individual contributor at NexaFlow (Starter plan, billed annually) performed a 'feature_use' event via 'mobile_app'."
+EVT-0009297,COMP-022,USER-0487,SUB-00268,INV-002399,cancel_attempt,support,"A 'viewer' user at AstraFlow Solutions (Growth plan, billed annually) attempted to cancel their subscription via the support team."
+EVT-0041153,COMP-006,USER-0591,SUB-02360,INV-007926,billing_page_view,api,User with role 'viewer' on SMBFlow's Scale plan (billed annually) accessed the billing page via API.
+EVT-0024731,COMP-018,USER-0209,SUB-00275,INV-007550,admin_action,support,"Viewer at NextPrime Solutions (Free plan, billed monthly) performed an 'admin_action' via the support channel."
+EVT-0007013,COMP-038,USER-0119,SUB-03291,INV-000803,cancel_attempt,support,"An individual contributor at NexaLATAM (Starter plan, monthly billing) attempted to cancel their subscription via support."
+EVT-0025762,COMP-007,USER-0028,SUB-04149,INV-003286,signup,web_app,Admin user at BizFlow signed up for the Starter plan (annual billing) via the web app.
+EVT-0044340,COMP-002,USER-0506,SUB-03611,INV-006343,login,api,"Manager at VerveFlow (Scale plan, monthly billed) logged in via API."
+EVT-0042241,COMP-026,USER-0486,SUB-00975,INV-009155,cancel_attempt,support,"An individual contributor at SMBHive (Starter plan, monthly billing) attempted to cancel their subscription via support."
+EVT-0020064,COMP-010,USER-0603,SUB-03066,INV-009257,billing_page_view,mobile_app,"Individual contributor at MidSphere (Starter plan, billed annually) viewed the billing page via the mobile app."
+EVT-0023641,COMP-013,USER-0820,SUB-03015,INV-006134,signup,support,A viewer user at VeridianEdge on the Growth plan (billed annually) completed a signup event through the support channel.
+EVT-0024253,COMP-034,USER-0577,SUB-02071,INV-006544,feature_use,mobile_app,"User with viewer role at AetherWorks GmbH (Growth plan, monthly billing) performed a 'feature_use' event via the mobile app."
+EVT-0033559,COMP-036,USER-0592,SUB-00826,INV-007643,signup,support,"An individual contributor at NexaFlow (Growth plan, billed monthly) completed a signup event through the support channel."
+EVT-0012478,COMP-004,USER-0609,SUB-00490,INV-002060,admin_action,web_app,"A manager user at NexaFlow (Starter plan, monthly billing) executed an admin action via the web app."
+EVT-0009909,COMP-011,USER-0699,SUB-03328,INV-006773,feature_use,support,An admin user on SMBFlow's Starter plan (billed annually) performed a 'feature_use' event via the support channel.
+EVT-0016240,COMP-046,USER-0241,SUB-00218,INV-009850,signup,web_app,Manager from NextSMB on Scale plan (billed annually) signed up via web_app.
+EVT-0025485,COMP-019,USER-0025,SUB-03646,INV-009627,admin_action,api,"User with role individual_contributor at NexaHub APAC (Starter plan, monthly billing) executed an admin_action via API."
+EVT-0008707,COMP-044,USER-0443,SUB-00935,INV-008946,signup,support,"**Event Log Line:** Individual contributor at CatalystAstra (Free plan, billed annually) signed up via the support channel."
+EVT-0022069,COMP-015,USER-0206,SUB-00188,INV-008549,admin_action,api,"Manager at LatamFlow (Starter plan, billed annually) executed an admin action via API."
+EVT-0039523,COMP-006,USER-0918,SUB-03139,INV-006641,feature_use,mobile_app,"A viewer user at EuropaNexus (Enterprise plan, billed monthly) used a feature via the mobile app."
+EVT-0028651,COMP-025,USER-0145,SUB-02768,INV-007554,login,api,StrataFlow Technologies manager user logged in via API on the Scale plan (billed monthly).
+EVT-0026715,COMP-011,USER-0601,SUB-04274,INV-002105,admin_action,support,"An individual contributor at ElevateLATAM (Growth plan, billed annually) executed an admin action via the support team."
+EVT-0008813,COMP-026,USER-0127,SUB-01388,INV-007287,signup,web_app,"An admin user from SMBForge (Enterprise plan, billed monthly) signed up via the web app."
+EVT-0001172,COMP-041,USER-0039,SUB-01074,INV-002085,cancel_attempt,web_app,"Viewer role user at EnterpriseVista (Starter plan, billed monthly) attempted a 'cancel_attempt' event via web_app."
+EVT-0034854,COMP-002,USER-0732,SUB-00001,INV-009354,signup,web_app,"A viewer user at NexaFlow APAC (Scale plan, billed annually) completed a signup event via the web application."
+EVT-0045344,COMP-003,USER-0841,SUB-04277,INV-008583,billing_page_view,support,"A viewer user at NexaSphere (Growth plan, billed annually) accessed the billing page via the support channel."
+EVT-0004594,COMP-034,USER-0986,SUB-02799,INV-007473,login,api,"Viewer role user at LumenSMB (Growth plan, billed annually) logged in via API."
+EVT-0006542,COMP-010,USER-0865,SUB-01059,INV-009617,cancel_attempt,mobile_app,"User with manager role at AegisEnterprise Group (Growth plan, billed monthly) attempted a cancellation via the mobile app."
+EVT-0008186,COMP-020,USER-0942,SUB-04502,INV-000356,login,mobile_app,"Admin user at LuzNube (Enterprise plan, annual billing) logged in via the mobile app."
+EVT-0035889,COMP-017,USER-0206,SUB-02445,INV-007815,feature_use,support,"Viewer at NexaEnterprise (Growth plan, billed annually) used a feature via support."
+EVT-0000809,COMP-022,USER-0280,SUB-02756,INV-007337,cancel_attempt,support,An individual_contributor at NestFlow on the Enterprise monthly plan attempted to cancel their subscription via support.
+EVT-0020422,COMP-010,USER-0352,SUB-00580,INV-002496,billing_page_view,support,"Admin user at SMBNube (Growth plan, monthly billing) viewed the billing page via the support channel."
+EVT-0041615,COMP-037,USER-0100,SUB-03356,INV-002363,billing_page_view,api,Viewer user at GlobalPrime Solutions (Starter plan) viewed the billing page via API.
+EVT-0002710,COMP-011,USER-0908,SUB-03876,INV-006403,login,api,Admin user from APACNexus Solutions on the Growth plan (annual billing) performed a login event via API.
+EVT-0008646,COMP-037,USER-0167,SUB-04041,INV-002204,signup,api,User with role individual_contributor at LATAMForge signed up for the Free plan (billed monthly) via API.
+EVT-0001469,COMP-016,USER-0481,SUB-04308,INV-003115,login,support,An individual contributor on the Free monthly plan logged in via the support channel.
+EVT-0025961,COMP-011,USER-0067,SUB-02094,INV-004475,login,mobile_app,"User with role individual_contributor at PrimeNexus Solutions (Growth plan, billed annually) logged in via the mobile_app."
+EVT-0019405,COMP-007,USER-0927,SUB-03358,INV-000660,billing_page_view,api,"A manager at VistaLATAM (Growth plan, monthly billing) viewed the billing page via an API request."
+EVT-0009865,COMP-046,USER-0906,SUB-00490,INV-001291,login,support,"A manager from AsiaScale (Enterprise plan, billed monthly) logged in via the support channel."
+EVT-0020264,COMP-038,USER-0882,SUB-01195,INV-009008,signup,web_app,"An individual contributor at LATAMify completed a 'signup' event via the web app, subscribing to the Free plan (billed monthly)."
+EVT-0026222,COMP-044,USER-0797,SUB-03815,INV-005103,cancel_attempt,web_app,A viewer user at NubeLATAM on the Scale plan (monthly billing) attempted to cancel their subscription via the web app.
+EVT-0041302,COMP-009,USER-0851,SUB-03405,INV-005105,admin_action,web_app,"User with role 'viewer' at ElevateSphere (Growth plan, billed annually) executed an 'admin_action' via the web_app interface."
+EVT-0015216,COMP-043,USER-0476,SUB-03733,INV-004227,login,api,"An individual_contributor at StrataVista (Scale plan, billed monthly) logged in via API."
+EVT-0039545,COMP-037,USER-0075,SUB-01754,INV-000643,cancel_attempt,mobile_app,"A manager at LATAMGrowth (Enterprise plan, billed annually) attempted to cancel a subscription via the mobile app."
+EVT-0010887,COMP-040,USER-0253,SUB-03116,INV-009746,signup,support,"A viewer user at APACFlow (Growth plan, billed monthly) completed a signup via the support channel."
+EVT-0030187,COMP-019,USER-0770,SUB-01346,INV-000566,admin_action,mobile_app,"User [individual_contributor] from CloudNexus APAC (Starter plan, monthly billing) executed an 'admin_action' via the mobile app."
+EVT-0032997,COMP-023,USER-0854,SUB-00420,INV-008588,feature_use,api,"User with role 'viewer' at SMBFlow (Enterprise plan, billed annually) performed a 'feature_use' event via API."
+EVT-0007877,COMP-045,USER-0767,SUB-02207,INV-007796,cancel_attempt,web_app,"An individual contributor at AstraLink (Growth plan, billed monthly) attempted to cancel their subscription via the web app."
+EVT-0013366,COMP-014,USER-0686,SUB-01824,INV-004292,login,api,"User with role individual_contributor at NexusWorks (Scale plan, monthly billing) performed a 'login' event via API."
+EVT-0029624,COMP-005,USER-0952,SUB-02260,INV-005401,signup,support,"An admin user at EnterpriseNexus Solutions (Growth plan, monthly billing) completed a signup event via the support channel."
+EVT-0008587,COMP-045,USER-0575,SUB-02776,INV-008441,login,mobile_app,"**Event Log Line:** ""Viewer at ElevateFlow (Starter plan, monthly billing) logged in via mobile app."""
+EVT-0015576,COMP-002,USER-0190,SUB-03508,INV-004596,signup,web_app,The manager user at SMBFlow signed up via the web app for the Enterprise plan billed monthly.
+EVT-0023249,COMP-021,USER-0252,SUB-01058,INV-003686,signup,support,"A manager from ProsperaSMB (Growth plan, annually billed) completed a signup via the support channel."
+EVT-0002381,COMP-027,USER-0932,SUB-03561,INV-004720,cancel_attempt,web_app,"Manager at SMBPulse Hub (Scale plan, billed annually) attempted to cancel their subscription via the web app."
+EVT-0025288,COMP-050,USER-0934,SUB-03614,INV-008011,billing_page_view,support,A manager at SummitNexus on the Free monthly plan viewed the billing page via the support channel.
+EVT-0025809,COMP-035,USER-0497,SUB-04496,INV-005230,cancel_attempt,support,Viewer at GlobalPrime Solutions (Free annual plan) attempted to cancel their subscription via support.
+EVT-0008940,COMP-044,USER-0581,SUB-02198,INV-005850,signup,web_app,Admin user on Starter plan (billed annually) signed up via web_app.
+EVT-0008115,COMP-015,USER-0205,SUB-02083,INV-009495,admin_action,api,Vertex Solutions manager with a Starter plan (annual billing) performed an admin action via API.
+EVT-0010724,COMP-030,USER-0188,SUB-00281,INV-003149,admin_action,mobile_app,"An individual_contributor at SMBHive (Growth plan, billed monthly) executed an 'admin_action' via the mobile app."
+EVT-0047345,COMP-036,USER-0131,SUB-04088,INV-001548,feature_use,web_app,"Admin user at PacificCloud Hub (Starter plan, billed monthly) engaged with a feature via the web app."
+EVT-0020494,COMP-016,USER-0977,SUB-01570,INV-009655,signup,web_app,"Viewer at PacificForge Solutions (Growth plan, annual billing) completed a signup via web_app."
+EVT-0027432,COMP-033,USER-0290,SUB-01485,INV-002947,cancel_attempt,web_app,"Viewer at MidNexus (Scale plan, billed annually) attempted to cancel via web_app."
+EVT-0000050,COMP-039,USER-0163,SUB-00742,INV-000302,cancel_attempt,support,"Manager at Proxima Hub (Enterprise plan, monthly billing) attempted to cancel via support."
+EVT-0035135,COMP-037,USER-0866,SUB-03838,INV-003191,feature_use,api,"Admin user at SMBFlow (Growth plan, billed annually) performed a 'feature_use' event via API."
+EVT-0013202,COMP-015,USER-0162,SUB-03737,INV-003439,billing_page_view,api,An admin user from SMBFlow's Growth plan (annual billing) viewed the billing page via an API request.
+EVT-0041590,COMP-025,USER-0670,SUB-02204,INV-005297,login,mobile_app,"User individual_contributor at ApexGlobal Solutions (Starter plan, billed monthly) logged in via mobile_app."
+EVT-0038591,COMP-048,USER-0292,SUB-04405,INV-005565,feature_use,api,A viewer at NexaPulse Asia on the Starter plan (monthly billing) used a feature via API.
+EVT-0043375,COMP-014,USER-0033,SUB-02634,INV-007005,cancel_attempt,api,Viewer user on ConectaSMB's Starter plan (monthly billing) attempted a 'cancel_attempt' via API.
+EVT-0000139,COMP-027,USER-0638,SUB-04251,INV-008113,login,api,"User with role individual_contributor at VidaCloud (Scale plan, billed annually) performed a 'login' event via API."
+EVT-0017162,COMP-028,USER-0604,SUB-03667,INV-004581,feature_use,support,VertexEdge Solutions manager with a Free plan (billed monthly) used a feature via support.
+EVT-0046711,COMP-006,USER-0269,SUB-03078,INV-009152,billing_page_view,mobile_app,"Admin user at EnterpriseForge Solutions (Growth plan, annual billing) viewed the billing page via the mobile app."
+EVT-0028294,COMP-033,USER-0825,SUB-04299,INV-000826,billing_page_view,api,"Manager at AsiaSMB Nexus (Growth plan, billed monthly) viewed the billing page via API."
+EVT-0036526,COMP-001,USER-0201,SUB-00770,INV-008217,admin_action,api,"An admin user at NestSpark (Scale plan, billed annually) executed an 'admin_action' via API."
+EVT-0030489,COMP-032,USER-0828,SUB-03781,INV-003233,admin_action,web_app,"An individual contributor at EuroFlow Solutions (Starter plan, billed monthly) performed an admin action via the web app."
+EVT-0048770,COMP-009,USER-0411,SUB-03446,INV-003697,feature_use,support,"A manager at LATAM Nexus (Scale plan tier, billed annually) utilized a feature via support."
+EVT-0003583,COMP-036,USER-0947,SUB-03535,INV-005277,feature_use,mobile_app,"A viewer user at NexaSphere (Growth plan, billed annually) utilized a feature via the mobile app."
+EVT-0014369,COMP-047,USER-0896,SUB-04502,INV-009736,login,api,"An admin user at Strategix (Starter plan, billed annually) logged in via API."
+EVT-0030331,COMP-018,USER-0014,SUB-04520,INV-001002,signup,api,"User with role individual_contributor at LATAMNexus signed up via API for the Starter plan, billed monthly."
+EVT-0047307,COMP-037,USER-0239,SUB-00579,INV-003798,billing_page_view,support,"Viewer role user at EnterpriseSphere (Growth plan, monthly billed) accessed the billing page via the support channel."
+EVT-0022377,COMP-013,USER-0974,SUB-01827,INV-000087,feature_use,support,"An individual contributor at SMBlytics (Growth plan, billed annually) used a feature via support."
+EVT-0021484,COMP-007,USER-0358,SUB-03908,INV-005198,feature_use,api,"PacificNexa Solutions' manager (Growth plan, billed annually) executed a 'feature_use' event via API."
+EVT-0022133,COMP-028,USER-0250,SUB-04277,INV-006993,billing_page_view,support,"A manager at LATAMHub (Scale plan, billed monthly) viewed the billing page via the support channel."
+EVT-0034436,COMP-045,USER-0410,SUB-00115,INV-000671,cancel_attempt,api,"An admin user at CatalystMidSolutions (Starter plan, annual billing) attempted a 'cancel_attempt' via API."
+EVT-0025858,COMP-029,USER-0360,SUB-04135,INV-005439,admin_action,api,"A viewer user at ZenithEnterprise (Scale tier plan, monthly billing) executed an admin_action via API."
+EVT-0041069,COMP-024,USER-0346,SUB-00324,INV-008039,admin_action,support,"An admin user at VertexAPAC (Starter plan, billed annually) performed an admin action via support."
+EVT-0034721,COMP-019,USER-0003,SUB-01539,INV-002501,billing_page_view,support,"An individual contributor at NexaForge (Starter plan, billed monthly) accessed the billing page via the support channel, triggering a billing_page_view event."
+EVT-0016064,COMP-046,USER-0508,SUB-01015,INV-007903,cancel_attempt,api,"A manager at NestHive (Growth plan, billed monthly) attempted a cancellation via API."
+EVT-0035074,COMP-019,USER-0903,SUB-01725,INV-009442,feature_use,api,"Manager at APACNexus Technologies (Free plan, monthly billing) utilized a feature via API."
+EVT-0026203,COMP-028,USER-0442,SUB-00236,INV-008355,signup,web_app,"Viewer at LATAMNexus (Scale plan, annual billing) signed up via web_app."
+EVT-0031881,COMP-039,USER-0552,SUB-04894,INV-007851,login,mobile_app,"An admin user at LATAMVerve (Scale plan tier, billed monthly) logged in via the mobile app."
+EVT-0006787,COMP-010,USER-0738,SUB-04872,INV-004084,login,mobile_app,"Admin user from SolTec SMB (Starter plan, annual billing) logged in via mobile_app."
+EVT-0039167,COMP-023,USER-0613,SUB-02848,INV-001422,billing_page_view,web_app,"A manager at NubeGlobal Solutions (Scale plan, billed monthly) viewed the billing page via the web app."
